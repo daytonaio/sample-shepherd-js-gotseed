@@ -17,7 +17,7 @@
 
 3. Start the Application:
    ```bash
-   cd festigo && npm run dev
+   cd gotSeed && npm run dev
    ```
 
 4. Change the `/gotSeed-daytona/gotSeed/src/shepherd.js` to the file provided in the gotSeed folder named `css_replacement_shepherd.css`.

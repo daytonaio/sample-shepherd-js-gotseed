@@ -2,5 +2,5 @@
     "name": "Web Development Environment with Shepherd.js",
     "image": "mcr.microsoft.com/devcontainers/javascript-node",
     "forwardPorts": [3000],
-    "postCreateCommand": "npm install --silent && pip install -r requirements.txt"
+    "postCreateCommand": "cd gotSeed && npm install --silent && pip install -r requirements.txt"
 }
