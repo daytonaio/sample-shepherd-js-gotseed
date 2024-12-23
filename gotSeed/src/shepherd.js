@@ -101,7 +101,7 @@ tour.addStep({
 tour.addStep({
   id: "step4",
   title: "✅ Our Most Soldable Shop Items ",
-  text: "Pnce upon a time, a legend name Rohan 🧑‍🔬 said, Plants bring Harmony 🕊️, Love 💘, and your Loved ones 💏! Are you ready to bring some love at your place? 💖🫂",
+  text: "Once upon a time, a princess named Sneha 👸 said, Plants bring Harmony 🕊️, Love 💘, and your Loved ones 💏! Are you ready to bring some love at your place? 💖🫂",
   scrollTo: {
     behavior: 'smooth',
     block: 'center'
@@ -192,7 +192,7 @@ buttons: [
 tour.addStep({
   id: "step6",
   title: "🙋‍♂️ I know you have a lot to ask!",
-  text: "Many ppl hestitate to ask. But you don't need to show hesitation in gotSeed. Write your query and hit the submit button! ✅",
+  text: "Many ppl hestitate to ask. But you don't need to show hesitation in gotSeed. Write your query and hit the SEND button! ✅",
   scrollTo: {
     behavior: 'smooth',
     block: 'center'
