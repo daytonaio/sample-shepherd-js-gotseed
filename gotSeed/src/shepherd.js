@@ -101,7 +101,7 @@ tour.addStep({
 tour.addStep({
   id: "step4",
   title: "✅ Our Most Soldable Shop Items ",
-  text: "Pnce upon a time, a legend name Rohan 🧑‍🔬 said, Plants bring Harmony 🕊️, Love 💘, and your Loved ones 💏! Are you ready to bring some love at your place? 💖🫂",
+  text: "Pnce upon a time, a princess named Sneha👸 said, Plants bring Harmony 🕊️, Love 💘, and your Loved ones 💏! Are you ready to bring some love at your place? 💖🫂",
   scrollTo: {
     behavior: 'smooth',
     block: 'center'
