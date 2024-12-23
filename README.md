@@ -10,18 +10,22 @@
 
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 
-2. daytona create 
+2. Create a workspace
    ```bash
-   https://github.com/daytonaio/sample-shepherd-js-gotseed
+      daytona create https://github.com/daytonaio/sample-shepherd-js-gotseed
    ```
 
 3. Start the Application:
    ```bash
-   cd gotSeed && npm run dev
+   cd gotSeed/src && npm run dev
    ```
 
 4. Change the `/gotSeed-daytona/gotSeed/src/shepherd.js` to the file provided in the gotSeed folder named `css_replacement_shepherd.css`.
 
+&nbsp;
+
+> [!NOTE]
+> for mac users, change the package.json script command to "dev": "live-server && xdg-open http://localhost:8080"
 ---
 
 ## ✨ Features  
